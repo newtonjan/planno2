@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c041e316e34c1c659dc35ff76d289099",
+    "revision": "d372b7f5ff21d5a0889699145d3e038f",
     "url": "/planno2/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/planno2/static/css/2.0012cb62.chunk.css"
   },
   {
-    "revision": "510f06c8b06f7f5f13b7",
+    "revision": "7c084356d61537d97ccf",
     "url": "/planno2/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/planno2/static/js/2.a0642cde.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "510f06c8b06f7f5f13b7",
-    "url": "/planno2/static/js/main.6ab8633a.chunk.js"
+    "revision": "7c084356d61537d97ccf",
+    "url": "/planno2/static/js/main.b48502ad.chunk.js"
   },
   {
     "revision": "87cff6bb9dc5f74c835c",
